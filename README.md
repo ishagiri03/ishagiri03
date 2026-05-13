@@ -55,7 +55,7 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/isha-giri-002530343/?skipRedirect=true
 - Email: giriisha59@gmail.com
 
 ## 💡 *"Building strong foundations in software, one project at a time."*
